@@ -10,4 +10,5 @@ Proof-of-concept TODO-листа с учётом контекста пользо
 - Ввести свои исключения;
 - Сделать собственную реализацию **UserDetails**;
 - Доставать пользователя внутри **TaskPermissionService** по **id**;
-- Понять, почему **TaskPermissionService** виден только с помощью **@Bean**, а не **@Service**.
+- Понять, почему **TaskPermissionService** виден только с помощью **@Bean**, а не **@Service**;
+- Покрыть всё тестами :)
